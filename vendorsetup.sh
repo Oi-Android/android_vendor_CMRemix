@@ -7,6 +7,7 @@ add_lunch_combo cmremix_hlteusc-userdebug
 # Samsung Galaxy Note4
 add_lunch_combo cmremix_trlteeur-userdebug
 add_lunch_combo cmremix_trltetmo-userdebug
+add_lunch_combo cmremix_n7000-userdebug
 add_lunch_combo cmremix_trltespr-userdebug
 add_lunch_combo cmremix_trlteusc-userdebug
 # Sony Xperia Z Ultra
