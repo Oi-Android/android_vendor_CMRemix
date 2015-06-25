@@ -1,31 +1,31 @@
 [
   {
-    "remote":      "github",
-    "repository":   "CyanogenMod/android_hardware_samsung",
+    "account":      "CyanogenMod",
+    "repository":   "android_hardware_samsung",
     "target_path":  "hardware/samsung",
     "revision":     "cm-12.1"
   },
   {
-    "remote":      "github",
-    "repository":   "Oi-Android/cm-android_device_samsung_n7000",
+    "account":      "Oi-Android",
+    "repository":   "cm-android_device_samsung_n7000",
     "target_path":  "device/samsung/n7000",
     "revision":     "cm-12.1"
   },
   {
-    "remote":      "github",
-    "repository":   "AuzOne/android_kernel_samsung_smdk4210",
+    "account":      "AuzOne",
+    "repository":   "android_kernel_samsung_smdk4210",
     "target_path":  "kernel/samsung/smdk4412",
     "revision":     "cm-12.1-r3p2"
   },
   {
-    "remote":      "github",
-    "repository":   "CyanogenMod/android_device_samsung_galaxys2-common",
+    "account":      "CyanogenMod",
+    "repository":   "android_device_samsung_galaxys2-common",
     "target_path":  "device/samsung/galaxys2-common",
     "revision":     "cm-12.1"
   },
   {
-    "remote":      "github",
-    "repository":   "TheMuppets/proprietary_vendor_samsung",
+    "account":      "TheMuppets",
+    "repository":   "proprietary_vendor_samsung",
     "target_path":  "vendor/samsung",
     "revision":     "cm-12.1"
   }
