@@ -62,7 +62,7 @@ usage() {
 
 # Import Colors
 . ./vendor/cmremix/tools/colors
-. ./vendor/cmremix/tools/res/cmremix-start
+. ./vendor/cmremix/tools/res/cmremix
 
 
 # CMREMIX version
