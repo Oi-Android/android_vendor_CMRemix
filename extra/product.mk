@@ -5,7 +5,8 @@ PRODUCT_PACKAGES += \
 
 # CMRemixOTA
 PRODUCT_PACKAGES += \
-    CMRemixOTA
+    CMRemixOTA \
+    CMRemixUpdater
 
 # slim Apps
 PRODUCT_PACKAGES += \
