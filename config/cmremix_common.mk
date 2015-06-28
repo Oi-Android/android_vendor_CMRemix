@@ -28,11 +28,6 @@ vendor/cmremix/prebuilt/common/etc/init.local.rc:root/init.cmremix.rc
 # Debugs Script
 -include vendor/cmremix/products/debug.mk
 
-# Chromium Prebuilt
-ifeq ($(PRODUCT_PREBUILT_WEBVIEWCHROMIUM),yes)
--include prebuilts/chromium/$(TARGET_DEVICE)/chromium_prebuilt.mk
-endif
-
 # CM-Remix version
 CMREMIXVERSION := $(shell echo $(CMREMIX_VERSION) | sed -e 's/^[ \t]*//;s/[ \t]*$$//;s/ /./g')
 BOARD := $(subst cmremix_,,$(TARGET_PRODUCT))
