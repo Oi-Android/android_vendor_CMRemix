@@ -36,7 +36,7 @@
     "revision":     "cm-12.1"
   },
   {
-    "account":      "TheMuppets",
+    "account":      "CMRemix",
     "repository":   "proprietary_vendor_samsung",
     "target_path":  "vendor/samsung",
     "revision":     "cm-12.1"

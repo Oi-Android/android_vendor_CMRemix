@@ -69,6 +69,12 @@ ifeq ($(DISABLE_ADB_AUTH),true)
         persist.sys.root_access=3
 endif
 
+# CMRemix Tweaks & Optimization
+PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
+    ro.adb.secure=0 \
+    dalvik.vm.image-dex2oat-filter=everything \
+    dalvik.vm.dex2oat-filter=everything
+
 EXTENDED_POST_PROCESS_PROPS := vendor/cmremix/tools/cmremix_process_props.py
 
 # Inherite sabermod vendor
