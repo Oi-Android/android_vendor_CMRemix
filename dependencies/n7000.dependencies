@@ -12,10 +12,10 @@
     "revision":     "cm-12.1"
   },
   {
-    "account":      "AuzOne",
-    "repository":   "android_kernel_samsung_smdk4210",
+    "account":      "belalang-tempur",
+    "repository":   "android_kernel_samsung_tw_n7000",
     "target_path":  "kernel/samsung/smdk4412",
-    "revision":     "cm-12.1-r3p2"
+    "revision":     "experimental"
   },
   {
     "account":      "CyanogenMod",
