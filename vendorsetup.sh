@@ -12,5 +12,6 @@ add_lunch_combo cmremix_trltespr-userdebug
 add_lunch_combo cmremix_trlteusc-userdebug
 # Sony Xperia Z Ultra
 add_lunch_combo cmremix_togari-userdebug
-# Motorola 
+# Motorola
 add_lunch_combo cmremix_falcon-userdebug
+add_lunch_combo cmremix_titan-userdebug
